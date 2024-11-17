@@ -1,6 +1,6 @@
 # 👨‍💻 [Javier Santiago Olmos Medina] - Estudiante de Ingeniería Mecatrónica
 
-¡Hola! Soy [Javier Santiago Olmos Medina], estudiante de Ingeniería Mecatrónica en la **Universidad Autónoma de Bucaramanga** (UNAB), actualmente cursando el **séptimo semestre** de mi carrera universitaria. Mi enfoque académico y profesional se centra en la integración de software y hardware para el desarrollo de soluciones innovadoras en robótica, control y automatización.
+¡Hola! Soy Javier Santiago Olmos Medina, estudiante de Ingeniería Mecatrónica en la **Universidad Autónoma de Bucaramanga** (UNAB), actualmente cursando el **séptimo semestre** de mi carrera universitaria. Mi enfoque académico y profesional se centra en la integración de software y hardware para el desarrollo de soluciones innovadoras en robótica, control y automatización.
 
 ---
 
