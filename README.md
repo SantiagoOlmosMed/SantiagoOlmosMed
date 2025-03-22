@@ -8,7 +8,7 @@
 
 - 🌟 **Carrera:** Ingeniería Mecatrónica  
 - 🏫 **Universidad:** Universidad Autónoma de Bucaramanga  
-- 📅 **Semestre actual:** Séptimo  
+- 📅 **Semestre actual:** Octavo  
 - 🔧 **Intereses principales:**  
   - Robótica  
   - Sistemas de Control  
