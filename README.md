@@ -65,7 +65,7 @@
 ---
 
 ## 🌐 Encuéntrame en  
-- **LinkedIn:** Coming soon... 
+- **LinkedIn:** [Javier Santiago Olmos Medina](https://www.linkedin.com/in/javier-santiago-olmos-medina-164899356/) 
 - **GitHub:** [SantiagoOlmosMed](https://github.com/SantiagoOlmosMed)  
 - **Correo Electrónico:** [jolmos@unab.edu.co](mailto:jolmos@unab.edu.co)  
 
